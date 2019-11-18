@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GodMyGuyLuckly.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BF41E39A622CC0A824701D53AC6CAD01C3831C94</string>
+				<key>dateExpires</key>
+				<string>2021/8/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>N62V9YSL6L.com.xunyijia.GodMyGuyLuckly</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>N62V9YSL6L</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>N62V9YSL6L.com.xunyijia.GodMyGuyLuckly</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>GodMyGuyLuckly.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>91c3dfb9-447a-49c8-98e7-16d004b16429</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.xunyijia.GodMyGuyLuckly</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>N62V9YSL6L</string>
+				<key>name</key>
+				<string>GUANGZHOU ESHINE ELECTRONIC TECHNOLOGY CO.LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
