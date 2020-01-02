@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://171.106.48.116:9601/ems/core/app/downAppPage.do</string>
+					<string>https://github.com/Gusont/ipaTest/blob/dev/GodMyGuyLuckly.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
