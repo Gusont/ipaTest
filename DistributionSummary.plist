@@ -12,23 +12,23 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>BF41E39A622CC0A824701D53AC6CAD01C3831C94</string>
+				<string>E98797470891854D9F0D50F3AD25D223E1CEE101</string>
 				<key>dateExpires</key>
-				<string>2021/8/20</string>
+				<string>2021/5/30</string>
 				<key>type</key>
-				<string>iOS Distribution</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>N62V9YSL6L.com.xunyijia.GodMyGuyLuckly</string>
+				<string>34UZ22P4B6.com.ymyh.GodMyGuyLuckly</string>
 				<key>com.apple.developer.team-identifier</key>
-				<string>N62V9YSL6L</string>
+				<string>34UZ22P4B6</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>N62V9YSL6L.com.xunyijia.GodMyGuyLuckly</string>
+					<string>34UZ22P4B6.com.ymyh.GodMyGuyLuckly</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -36,16 +36,16 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>91c3dfb9-447a-49c8-98e7-16d004b16429</string>
+				<string>42a43389-66a6-4452-90ca-db06b02a16fa</string>
 				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: com.xunyijia.GodMyGuyLuckly</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: *</string>
 			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
-				<string>N62V9YSL6L</string>
+				<string>34UZ22P4B6</string>
 				<key>name</key>
-				<string>GUANGZHOU ESHINE ELECTRONIC TECHNOLOGY CO.LTD</string>
+				<string>Jiangxi Yumin Bank Co., Ltd.</string>
 			</dict>
 		</dict>
 	</array>
